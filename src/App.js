@@ -3,6 +3,8 @@ import './App.css';
 import About from './Components/About/index'
 
 function App() {
+  document.title="ALM Watches"
+
   return (
     <div>
       <main>
